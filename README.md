@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/explore/pixel-art-keff" alt="hola">
+  <img src="https://i.pinimg.com/originals/ff/a9/6e/ffa96ede4039820cdac1185df70b8dc7.gif" alt="hola">
 </p>
 
 **SergioAbadOrdonez/SergioAbadOrdonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
