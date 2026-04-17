@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋](https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **SergioAbadOrdonez/SergioAbadOrdonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
