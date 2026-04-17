@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation">
 </p>
+
+<p align="center">
+  <img src="https://giphy.com/explore/pixel-art-keff" alt="hola">
+</p>
+
 **SergioAbadOrdonez/SergioAbadOrdonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
