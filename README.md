@@ -1,9 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="URL_DE_TU_VERSION_DARK">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-</picture>
-<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ISaneI/ISaneI/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation">
+</p>
 **SergioAbadOrdonez/SergioAbadOrdonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
